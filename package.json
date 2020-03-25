@@ -1,0 +1,14 @@
+{
+  "name": "cbe",
+  "version": "1.0.0",
+  "description": "Import data Firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guimarães Mahota",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^6.5.0"
+  }
+}
