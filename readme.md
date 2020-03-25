@@ -1,6 +1,12 @@
 
 ##Script's
-firebase-import --database_url https://mahotacrm.firebaseio.com --path / --json data.json --merge --service_account serviceAccountKey.json
+firebase-import --database_url https://mahotacrm.firebaseio.com --path /funcionarios --json data.json --merge --service_account serviceAccountKey.json
+
+firebase-import --database_url https://mahotacrm.firebaseio.com --path /localizacoes --json localizacoes.json  --service_account serviceAccountKey.json
+
+firebase-import --database_url https://mahotacrm.firebaseio.com --path /localizacoes --json localizacoes.json  --service_account serviceAccountKey.json
+
+--database_url https://mahotacrm.firebaseio.com --path / --json d.json --merge --service_account serviceAccountKey.json --force
 
 https://medium.com/@impaachu/how-to-upload-data-to-firebase-firestore-cloud-database-63543d7b34c5
 

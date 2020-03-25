@@ -1,0 +1,30 @@
+[{
+    "ID":"Sofala",
+    "nome":"Sofala Province",
+    "latitude":-20.155,
+    "longitude":34.732,
+    "radio":7
+},
+{
+    "ID":"Manica",
+    "nome":"Manica Province",
+    "latitude":-18.934,
+    "longitude":32.876,
+    "radio":7
+},
+{
+    "ID":"Tete",
+    "nome":"Tete Province",
+    "latitude":-14.573,
+    "longitude":31.739,
+    "radio":7
+},
+{
+    "ID":"Niassa",
+    "nome":"Niassa Province",
+    "latitude":-14.199,
+    "longitude":37.497,
+    "radio":7
+}
+
+]
