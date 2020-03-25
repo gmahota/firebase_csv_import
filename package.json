@@ -9,6 +9,6 @@
   "author": "Guimarães Mahota",
   "license": "ISC",
   "dependencies": {
-    "firebase-admin": "^6.5.0"
+    "firebase-admin": "^8.10.0"
   }
 }
